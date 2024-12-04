@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(128,76): warning C4305: “参数”: 从“__int64”到“long”截断
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(128,76): warning C4309: “参数”: 截断常量值
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(128,33): warning C4305: “参数”: 从“__int64”到“long”截断
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(128,33): warning C4309: “参数”: 截断常量值
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(128,13): warning C4305: “参数”: 从“__int64”到“long”截断
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(128,13): warning C4309: “参数”: 截断常量值
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(154,34): warning C4305: “参数”: 从“__int64”到“long”截断
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(154,34): warning C4309: “参数”: 截断常量值
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(154,14): warning C4305: “参数”: 从“__int64”到“long”截断
+C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\源.cpp(154,14): warning C4309: “参数”: 截断常量值
+  ATMcpp.vcxproj -> C:\Users\18190\Desktop\ATM作业\ATM作业\ATMcpp\x64\Debug\ATMcpp.exe
